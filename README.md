@@ -3,10 +3,11 @@
 
 
 # Simple Platformer Tutorial With BLACKFORGE2
+*This framework assumes you have an understanding of the following: ( **pygame**, **Object Oriented Programming**, **Classes** and **Inheritance** )*
 
 - *This is meant to show you some attributes, classes and functions provided by BLACKFORGE2. There are many more tools included to help you out with making your game. Go to definition on the BLACKFORGE2 import and check out some of the code to learn more about them. I will be creating documentation soon.*
 
-- * I have provided comments within the code to explain whats going on *
+- *I have provided comments within the code to explain whats going on*
 
 - First we get our imports ready and our project settings
 ---
@@ -58,7 +59,7 @@ class Player(Entity):
 ```
 ---
 - We can now set up a Level class which will handle creating the "layers" or sprite groups for our game, and drawing them at the correct position based on *level_data* that we pass it.
-* In this class we will use the StaticTile class to create some tiles for our player to interact with *
+*In this class we will use the StaticTile class to create some tiles for our player to interact with.*
 ---
 ```python
 class Level():
