@@ -3,7 +3,7 @@
 
 
 # Simple Platformer Tutorial With BLACKFORGE2
-*This framework assumes you have an understanding of the following: ( **pygame**, **Object Oriented Programming**, **Classes** and **Inheritance** )*
+*This framework assumes you have an understanding of the following: ( **python**, **pygame**, **Object Oriented Programming**, **Classes** and **Inheritance** )*
 
 - *This is meant to show you some attributes, classes and functions provided by BLACKFORGE2. There are many more tools included to help you out with making your game. Go to definition on the BLACKFORGE2 import and check out some of the code to learn more about them. I will be creating documentation soon.*
 
