@@ -2,11 +2,11 @@
  A framework for developing 2d games with python+pygame.
 
 
-# ***Simple Platformer With BLACKFORGE2 ***
+# Simple Platformer With BLACKFORGE2
 
--***This is meant to show you some attributes, classes and functions provided by BLACKFORGE2. There are many more tools included to help you out with making your game. Go to definition on the BLACKFORGE2 import and check out some of the code to learn more about them. I will be creating documentation soon.***-
+- This is meant to show you some attributes, classes and functions provided by BLACKFORGE2. There are many more tools included to help you out with making your game. Go to definition on the BLACKFORGE2 import and check out some of the code to learn more about them. I will be creating documentation soon.-
 
-*-* **First we get our imports ready and our project settings**
+- First we get our imports ready and our project settings
 ---
 ```python
 from BLACKFORGE2 import *
@@ -16,11 +16,11 @@ FPS = 60
 SCREEN_SIZE = (1000,800)
 GRAVITY = 0.62
 ```
-*-* ** The development branch of pygame *pygame-ce* is installed when you install BLACKFORGE2. **
-***If you are experiencing issues/conflicts, it is reccomended to delete pygame by running the following command:*** ``` pip uninstall pygame ```
+- The development branch of pygame *pygame-ce* is installed when you install BLACKFORGE2.
+If you are experiencing issues/conflicts, it is reccomended to delete pygame by running the following command: ``` pip uninstall pygame ```
 ---
-*-* ** First lets create a simple Player class**
-*Within this Player class we will use the Physics class, and the Entity class along with their attributes to get our player set up quick and clean.*
+- First lets create a simple Player class
+Within this Player class we will use the Physics class, and the Entity class along with their attributes to get our player set up quick and clean.
 ---
 ```python
 class Player(Entity):
