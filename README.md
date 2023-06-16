@@ -1,29 +1,11 @@
 # Documentation ( 0.1.3 )
-
-<aside>
-💡 ******************************Quick Access: | [Game Objects](https://www.notion.so/Documentation-0-1-3-40543d6137f84918bd900931ec93e02d?pvs=21) | [User Interface](https://www.notion.so/Documentation-0-1-3-40543d6137f84918bd900931ec93e02d?pvs=21) | [Support Classes](https://www.notion.so/Documentation-0-1-3-40543d6137f84918bd900931ec93e02d?pvs=21) | [Support Functions](https://www.notion.so/Documentation-0-1-3-40543d6137f84918bd900931ec93e02d?pvs=21) | [Physics](https://www.notion.so/Documentation-0-1-3-40543d6137f84918bd900931ec93e02d?pvs=21) | [Entity](https://www.notion.so/Documentation-0-1-3-40543d6137f84918bd900931ec93e02d?pvs=21) | [StaticTile](https://www.notion.so/Documentation-0-1-3-40543d6137f84918bd900931ec93e02d?pvs=21) | [MovingTile](https://www.notion.so/Documentation-0-1-3-40543d6137f84918bd900931ec93e02d?pvs=21) | [AnimatedTile](https://www.notion.so/Documentation-0-1-3-40543d6137f84918bd900931ec93e02d?pvs=21) | [Light](https://www.notion.so/Documentation-0-1-3-40543d6137f84918bd900931ec93e02d?pvs=21) | [Button](https://www.notion.so/Documentation-0-1-3-40543d6137f84918bd900931ec93e02d?pvs=21) | [Animator](https://www.notion.so/Documentation-0-1-3-40543d6137f84918bd900931ec93e02d?pvs=21) | [clamp()](https://www.notion.so/Documentation-0-1-3-40543d6137f84918bd900931ec93e02d?pvs=21) | [import_folder()](https://www.notion.so/Documentation-0-1-3-40543d6137f84918bd900931ec93e02d?pvs=21) | [import_csv_layout()](https://www.notion.so/Documentation-0-1-3-40543d6137f84918bd900931ec93e02d?pvs=21) | [import_cut_graphics()](https://www.notion.so/Documentation-0-1-3-40543d6137f84918bd900931ec93e02d?pvs=21) | [draw_text()](https://www.notion.so/Documentation-0-1-3-40543d6137f84918bd900931ec93e02d?pvs=21) | [get_image()](https://www.notion.so/Documentation-0-1-3-40543d6137f84918bd900931ec93e02d?pvs=21) | [play_sound()](https://www.notion.so/Documentation-0-1-3-40543d6137f84918bd900931ec93e02d?pvs=21) | [scale_images()](https://www.notion.so/Documentation-0-1-3-40543d6137f84918bd900931ec93e02d?pvs=21) | [text_line_wrap()](https://www.notion.so/Documentation-0-1-3-40543d6137f84918bd900931ec93e02d?pvs=21) |*
-
-</aside>
-
 ---
 
 ## BLACKFORGE2
   *********************A Framework/Libray For Making 2D Game Development Easier*********************
 
-> ****************I want to help people both interested in game development in general and experienced pygame programmers.****************
-> 
-
 ---
-
 *BLACKFORGE2 provides you with a lot of useful Classes and methods that can help speed up the development process all while being efficient, performant, and simple to understand.*
-
----
-
-<aside>
-💡 You can access the quick guide [here](https://www.notion.so/Quick-Guide-2fd62b3bdc244e01941ea100b79eceac?pvs=21) to get an idea of how this library was intended to be used.
-
-</aside>
-
 ---
 
 ## GAME OBJECTS
