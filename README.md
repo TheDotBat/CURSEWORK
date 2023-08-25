@@ -1,25 +1,25 @@
-# BLACKFORGE2
+# CURSEWORK
  A framework for developing 2d games with python+pygame.
 
 
-# Simple Platformer Tutorial With BLACKFORGE2
+# Simple Platformer Tutorial With CURSEWORK
 *This framework assumes you have an understanding of the following: ( **python**, **pygame**, **Object Oriented Programming**, **Classes** and **Inheritance** )*
 
-- *This is meant to show you some attributes, classes and functions provided by BLACKFORGE2. There are many more tools included to help you out with making your game. Go to definition on the BLACKFORGE2 import and check out some of the code to learn more about them. I will be creating documentation soon.*
+- *This is meant to show you some attributes, classes and functions provided by CURSEWORK. There are many more tools included to help you out with making your game. Go to definition on the CURSEWORK import and check out some of the code to learn more about them. I will be creating documentation soon.*
 
 - *I have provided comments within the code to explain whats going on*
 
 - First we get our imports ready and our project settings
 ---
 ```python
-from BLACKFORGE2 import *
+from CURSEWORK import *
 
 """ Settings """
 FPS = 60
 SCREEN_SIZE = (1000,800)
 GRAVITY = 0.62
 ```
-- The development branch of pygame *pygame-ce* is installed when you install BLACKFORGE2.
+- The development branch of pygame *pygame-ce* is installed when you install CURSEWORK.
 *If you are experiencing issues/conflicts, it is reccomended to delete pygame by running the following command:* ``` pip uninstall pygame ```
 ---
 - First lets create a simple Player class
@@ -161,7 +161,7 @@ python3 *filename*.py
 ---
 - This is the end result.
 ---
-![ezgif-5-358a3857db](https://github.com/setoyuma/BLACKFORGE2/assets/118138305/583399ea-3eb3-4988-92a4-4d0bbe29d083)
+![ezgif-5-358a3857db](https://github.com/setoyuma/CURSEWORK/assets/118138305/583399ea-3eb3-4988-92a4-4d0bbe29d083)
 ---
-- Hopefully this tutorial provided some form of insight into some of the useful methods and classes that come with BLACKFORGE2. Feel free to check out the GitHub repo here:  https://github.com/setoyuma/BLACKFORGE2
+- Hopefully this tutorial provided some form of insight into some of the useful methods and classes that come with CURSEWORK. Feel free to check out the GitHub repo here:  https://github.com/setoyuma/CURSEWORK
 ---
