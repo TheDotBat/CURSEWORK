@@ -5,7 +5,9 @@
 # Simple Platformer Tutorial With CURSEWORK
 *This framework assumes you have an understanding of the following: ( **python**, **pygame**, **Object Oriented Programming**, **Classes** and **Inheritance** )*
 
-- *This is meant to show you some attributes, classes and functions provided by CURSEWORK. There are many more tools included to help you out with making your game. Go to definition on the CURSEWORK import and check out some of the code to learn more about them. I will be creating documentation soon.*
+- *This is meant to show you some attributes, classes and functions provided by CURSEWORK. There are many more tools included to help you out with making your game. Go to definition on the CURSEWORK import and check out some of the code to learn more about them.*
+
+Docs: https://insidious-stealer-604.notion.site/CURSEWORK-Documentation-b873f2299b294f84852e1e190b1c708f?pvs=4
 
 - *I have provided comments within the code to explain whats going on*
 
