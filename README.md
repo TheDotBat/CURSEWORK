@@ -7,7 +7,7 @@
 
 - *This is meant to show you some attributes, classes and functions provided by CURSEWORK. There are many more tools included to help you out with making your game. Go to definition on the CURSEWORK import and check out some of the code to learn more about them.*
 
-Docs: https://insidious-stealer-604.notion.site/CURSEWORK-Documentation-b873f2299b294f84852e1e190b1c708f?pvs=4
+Docs: https://setoichi.notion.site/Documentation-0-3-0-40543d6137f84918bd900931ec93e02d?pvs=4
 
 - *I have provided comments within the code to explain whats going on*
 
